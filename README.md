@@ -59,5 +59,5 @@ http://127.0.0.1:8000/
 
 
 ## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
+Any suggestion and feedback is welcome. You can contact me by:
 - patelmanan2245@gmail.com
