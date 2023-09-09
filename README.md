@@ -1,4 +1,4 @@
-You can watch demo video [Video](https://github.com/Manan2245/Blood_Bank_Management_System/assets/87888482/d5faef38-d215-44af-9b85-5909cf501bb3)
+[Live Demo](https://github.com/Manan2245/Blood_Bank_Management_System/assets/87888482/d5faef38-d215-44af-9b85-5909cf501bb3)
 ### Admin
 - Create Admin account using following command
 ```
